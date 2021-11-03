@@ -1,0 +1,6 @@
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,First Abstract,image/jpg,bigabstract.jpg,2021,painting; abstract; acrylic,St. Catharines,,,My first apartment
+item2,Full Body Pop Art,image/jpg,fullbody.jpg,2020,painting; pop art; figure; acrylic,London,42.99479545,-81.2419815,My mom's house
+item3,Self Portrait Pop Art,image/jpg,portrait.jpg,2020,drawing; pencil crayon; pastel; figure; pop art,London,42.99479545,-81.2419815,My mom's house
+item4,Sky of Leaves Painting,image/jpg,skyofleaves.jpg,2021,painting; abstract; acrylic; gold leaf,St. Catharines,,,My new house
+item5,Small Abstract,image/jpg,smallabstract.jpg,2021,painting; abstract; acrylic; paint marker,St. Catharines,,,My new house
